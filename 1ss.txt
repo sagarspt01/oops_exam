@@ -1,0 +1,4 @@
+inline
+function overloading
+size of object
+static keyword ,object,function
