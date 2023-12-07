@@ -29,7 +29,7 @@ class Avrage:public Marks{
     // }
 };
 int main(){
-    Marks a;
+    // Marks a;
     Avrage a2;
     // a2.display();
 return 0;

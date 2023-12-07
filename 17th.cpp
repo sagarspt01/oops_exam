@@ -1,4 +1,4 @@
-// inline function outside class
+// inline member function outside class
 #include<iostream>
 using namespace std;
 class Man{

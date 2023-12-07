@@ -1,4 +1,4 @@
-//area by function overloading
+//area by constructor overloading
 #include<iostream>
 using namespace std;
 class Area{

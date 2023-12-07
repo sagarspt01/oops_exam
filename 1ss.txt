@@ -2,3 +2,6 @@ inline
 function overloading
 size of object
 static keyword ,object,function
+data abstraction encapsulation
+scope access
+namespace

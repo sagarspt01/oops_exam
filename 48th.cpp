@@ -9,6 +9,7 @@ public:
         a = 10;
     }
     void display() {
+    //  virtual void display() {
         cout << a << endl;
     }
 };

@@ -53,7 +53,7 @@ class AllArea:private Circle,Triangle,Square,Rectangle{
     }
 };
 int main(){
-    Area p;
+    // Area p;
     // p.getdata();
     AllArea a;
 
